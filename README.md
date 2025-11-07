@@ -14,4 +14,4 @@ layout:
 
 # README
 
-Welcome to ROALAND GitBook
+Welcome to ROACORE GitBook
