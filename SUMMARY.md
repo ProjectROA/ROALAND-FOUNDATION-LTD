@@ -6,7 +6,6 @@
 
 - [ROACORE WHITEPAPER ENG](whitepaper/roaland-whitepaper-eng.md)
 - [ROACORE WHITEPAPER KOR](whitepaper/roaland-whitepaper-kor.md)
-- [ROACORE WHITEPAPER CHN](whitepaper/roaland-whitepaper-chn.md)
 
 ## AUDIT
 
